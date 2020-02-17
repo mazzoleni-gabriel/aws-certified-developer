@@ -14,9 +14,9 @@ IAM allows you to manage users and theis level of access to the AWS console.
  - Supports PCI*(Payment Card Industry)* DSS Compliance.
 
 ### Core concepts
- - Users - people interacting with aws console or API.
+ - Users - People interacting with aws console or API.
  - Groups - A collection of users under one set of permissions.
- - Roles - You can create roles and then assign them to AWS resources.
+ - Roles - You can create roles and then assign them to AWS resources. Is used to assign polices to applications.
  - Policy - A document that defines one (or more) permissions. It can be assigned either to a User, a Group or a Role.
 
 #### Additional information
